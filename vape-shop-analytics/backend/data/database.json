@@ -1,0 +1,952 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Cloud Chaser 2000",
+      "category": "Device",
+      "price": 89.99,
+      "cost": 50,
+      "stock": 8,
+      "supplier": "VapeTech Inc"
+    },
+    {
+      "id": 3,
+      "name": "Starter Kit Basic",
+      "category": "Device",
+      "price": 29.99,
+      "cost": 15,
+      "stock": 22,
+      "supplier": "VapeTech Inc"
+    },
+    {
+      "id": 4,
+      "name": "Premium Mod 300",
+      "category": "Device",
+      "price": 129.99,
+      "cost": 75,
+      "stock": 5,
+      "supplier": "VapeTech Inc"
+    },
+    {
+      "id": 5,
+      "name": "Mini Pod System",
+      "category": "Device",
+      "price": 24.99,
+      "cost": 12,
+      "stock": 18,
+      "supplier": "VapeTech Inc"
+    },
+    {
+      "id": 6,
+      "name": "Mango Tango E-Liquid",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 45,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 7,
+      "name": "Strawberry Fields",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 38,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 8,
+      "name": "Mint Fresh",
+      "category": "E-Liquid",
+      "price": 11.99,
+      "cost": 5.5,
+      "stock": 42,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 9,
+      "name": "Vanilla Dream",
+      "category": "E-Liquid",
+      "price": 13.99,
+      "cost": 6.5,
+      "stock": 35,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 10,
+      "name": "Blueberry Blast",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 40,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 12,
+      "name": "Battery Charger",
+      "category": "Accessory",
+      "price": 15.99,
+      "cost": 8,
+      "stock": 25,
+      "supplier": "Accessory Plus"
+    },
+    {
+      "id": 13,
+      "name": "Carrying Case",
+      "category": "Accessory",
+      "price": 9.99,
+      "cost": 4.5,
+      "stock": 30,
+      "supplier": "Accessory Plus"
+    },
+    {
+      "id": 14,
+      "name": "Replacement Tank",
+      "category": "Accessory",
+      "price": 14.99,
+      "cost": 7,
+      "stock": 20,
+      "supplier": "Accessory Plus"
+    },
+    {
+      "id": 15,
+      "name": "Drip Tip Set",
+      "category": "Accessory",
+      "price": 6.99,
+      "cost": 3,
+      "stock": 50,
+      "supplier": "Accessory Plus"
+    },
+    {
+      "id": 16,
+      "name": "Tobacco Classic",
+      "category": "E-Liquid",
+      "price": 11.99,
+      "cost": 5.5,
+      "stock": 28,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 17,
+      "name": "Watermelon Wave",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 33,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 18,
+      "name": "Coffee Break",
+      "category": "E-Liquid",
+      "price": 13.99,
+      "cost": 6.5,
+      "stock": 25,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 19,
+      "name": "Grape Escape",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 30,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "id": 20,
+      "name": "Peach Paradise",
+      "category": "E-Liquid",
+      "price": 12.99,
+      "cost": 6,
+      "stock": 36,
+      "supplier": "Liquid Labs"
+    },
+    {
+      "name": "Vape Pen Pro",
+      "category": "Vape Pen Pro",
+      "price": 45.96,
+      "cost": 25,
+      "stock": 16,
+      "supplier": "VapeTech Inc",
+      "id": 1
+    },
+    {
+      "name": "Coil Pack (5pc)",
+      "category": "Accessory",
+      "price": 9,
+      "cost": 5,
+      "stock": 60,
+      "supplier": "Accessory Plus",
+      "id": 11
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@email.com",
+      "phone": "555-0101",
+      "age": 28,
+      "joinDate": "2024-01-15",
+      "totalPurchases": 12,
+      "totalSpent": 456.88
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah.j@email.com",
+      "phone": "555-0102",
+      "age": 32,
+      "joinDate": "2024-02-03",
+      "totalPurchases": 8,
+      "totalSpent": 312.92
+    },
+    {
+      "id": 3,
+      "name": "Mike Davis",
+      "email": "mike.davis@email.com",
+      "phone": "555-0103",
+      "age": 25,
+      "joinDate": "2024-01-22",
+      "totalPurchases": 15,
+      "totalSpent": 589.85
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily.b@email.com",
+      "phone": "555-0104",
+      "age": 29,
+      "joinDate": "2024-03-10",
+      "totalPurchases": 6,
+      "totalSpent": 187.94
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david.w@email.com",
+      "phone": "555-0105",
+      "age": 35,
+      "joinDate": "2024-01-08",
+      "totalPurchases": 20,
+      "totalSpent": 789.8
+    },
+    {
+      "id": 6,
+      "name": "Lisa Anderson",
+      "email": "lisa.a@email.com",
+      "phone": "555-0106",
+      "age": 27,
+      "joinDate": "2024-02-18",
+      "totalPurchases": 9,
+      "totalSpent": 341.91
+    },
+    {
+      "id": 7,
+      "name": "Chris Martinez",
+      "email": "chris.m@email.com",
+      "phone": "555-0107",
+      "age": 31,
+      "joinDate": "2024-01-30",
+      "totalPurchases": 11,
+      "totalSpent": 423.89
+    },
+    {
+      "id": 8,
+      "name": "Jessica Taylor",
+      "email": "jessica.t@email.com",
+      "phone": "555-0108",
+      "age": 26,
+      "joinDate": "2024-03-05",
+      "totalPurchases": 7,
+      "totalSpent": 223.93
+    },
+    {
+      "id": 9,
+      "name": "Robert Lee",
+      "email": "robert.l@email.com",
+      "phone": "555-0109",
+      "age": 33,
+      "joinDate": "2024-02-12",
+      "totalPurchases": 14,
+      "totalSpent": 545.86
+    },
+    {
+      "id": 10,
+      "name": "Amanda White",
+      "email": "amanda.w@email.com",
+      "phone": "555-0110",
+      "age": 24,
+      "joinDate": "2024-03-20",
+      "totalPurchases": 5,
+      "totalSpent": 156.95
+    },
+    {
+      "id": 11,
+      "name": "James Harris",
+      "email": "james.h@email.com",
+      "phone": "555-0111",
+      "age": 30,
+      "joinDate": "2024-01-25",
+      "totalPurchases": 13,
+      "totalSpent": 501.87
+    },
+    {
+      "id": 12,
+      "name": "Michelle Clark",
+      "email": "michelle.c@email.com",
+      "phone": "555-0112",
+      "age": 28,
+      "joinDate": "2024-02-28",
+      "totalPurchases": 10,
+      "totalSpent": 389.9
+    },
+    {
+      "id": 13,
+      "name": "Kevin Lewis",
+      "email": "kevin.l@email.com",
+      "phone": "555-0113",
+      "age": 29,
+      "joinDate": "2024-03-15",
+      "totalPurchases": 4,
+      "totalSpent": 125.96
+    },
+    {
+      "id": 14,
+      "name": "Nicole Walker",
+      "email": "nicole.w@email.com",
+      "phone": "555-0114",
+      "age": 27,
+      "joinDate": "2024-02-05",
+      "totalPurchases": 16,
+      "totalSpent": 623.84
+    },
+    {
+      "id": 15,
+      "name": "Brian Hall",
+      "email": "brian.h@email.com",
+      "phone": "555-0115",
+      "age": 34,
+      "joinDate": "2024-01-12",
+      "totalPurchases": 18,
+      "totalSpent": 701.82
+    },
+    {
+      "id": 16,
+      "name": "Stephanie Allen",
+      "email": "stephanie.a@email.com",
+      "phone": "555-0116",
+      "age": 26,
+      "joinDate": "2024-03-08",
+      "totalPurchases": 6,
+      "totalSpent": 198.94
+    },
+    {
+      "id": 17,
+      "name": "Daniel Young",
+      "email": "daniel.y@email.com",
+      "phone": "555-0117",
+      "age": 31,
+      "joinDate": "2024-02-22",
+      "totalPurchases": 12,
+      "totalSpent": 467.88
+    },
+    {
+      "id": 18,
+      "name": "Rachel King",
+      "email": "rachel.k@email.com",
+      "phone": "555-0118",
+      "age": 25,
+      "joinDate": "2024-03-12",
+      "totalPurchases": 8,
+      "totalSpent": 298.92
+    },
+    {
+      "id": 19,
+      "name": "Thomas Wright",
+      "email": "thomas.w@email.com",
+      "phone": "555-0119",
+      "age": 32,
+      "joinDate": "2024-01-18",
+      "totalPurchases": 17,
+      "totalSpent": 667.83
+    },
+    {
+      "id": 20,
+      "name": "Lauren Scott",
+      "email": "lauren.s@email.com",
+      "phone": "555-0120",
+      "age": 28,
+      "joinDate": "2024-02-15",
+      "totalPurchases": 11,
+      "totalSpent": 412.89
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "date": "2024-11-01",
+      "customerId": 1,
+      "productId": 1,
+      "quantity": 1,
+      "price": 45.99,
+      "total": 45.99,
+      "employeeId": 1
+    },
+    {
+      "id": 2,
+      "date": "2024-11-01",
+      "customerId": 2,
+      "productId": 6,
+      "quantity": 2,
+      "price": 12.99,
+      "total": 25.98,
+      "employeeId": 1
+    },
+    {
+      "id": 3,
+      "date": "2024-11-02",
+      "customerId": 3,
+      "productId": 2,
+      "quantity": 1,
+      "price": 89.99,
+      "total": 89.99,
+      "employeeId": 2
+    },
+    {
+      "id": 4,
+      "date": "2024-11-02",
+      "customerId": 4,
+      "productId": 11,
+      "quantity": 3,
+      "price": 8.99,
+      "total": 26.97,
+      "employeeId": 2
+    },
+    {
+      "id": 5,
+      "date": "2024-11-03",
+      "customerId": 5,
+      "productId": 4,
+      "quantity": 1,
+      "price": 129.99,
+      "total": 129.99,
+      "employeeId": 1
+    },
+    {
+      "id": 6,
+      "date": "2024-11-03",
+      "customerId": 1,
+      "productId": 7,
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "employeeId": 3
+    },
+    {
+      "id": 7,
+      "date": "2024-11-04",
+      "customerId": 6,
+      "productId": 3,
+      "quantity": 1,
+      "price": 29.99,
+      "total": 29.99,
+      "employeeId": 2
+    },
+    {
+      "id": 8,
+      "date": "2024-11-04",
+      "customerId": 7,
+      "productId": 8,
+      "quantity": 2,
+      "price": 11.99,
+      "total": 23.98,
+      "employeeId": 1
+    },
+    {
+      "id": 9,
+      "date": "2024-11-05",
+      "customerId": 8,
+      "productId": 5,
+      "quantity": 1,
+      "price": 24.99,
+      "total": 24.99,
+      "employeeId": 3
+    },
+    {
+      "id": 10,
+      "date": "2024-11-05",
+      "customerId": 9,
+      "productId": 9,
+      "quantity": 3,
+      "price": 13.99,
+      "total": 41.97,
+      "employeeId": 2
+    },
+    {
+      "id": 11,
+      "date": "2024-11-06",
+      "customerId": 10,
+      "productId": 12,
+      "quantity": 1,
+      "price": 15.99,
+      "total": 15.99,
+      "employeeId": 1
+    },
+    {
+      "id": 12,
+      "date": "2024-11-06",
+      "customerId": 11,
+      "productId": 10,
+      "quantity": 2,
+      "price": 12.99,
+      "total": 25.98,
+      "employeeId": 2
+    },
+    {
+      "id": 13,
+      "date": "2024-11-07",
+      "customerId": 12,
+      "productId": 13,
+      "quantity": 2,
+      "price": 9.99,
+      "total": 19.98,
+      "employeeId": 3
+    },
+    {
+      "id": 14,
+      "date": "2024-11-07",
+      "customerId": 13,
+      "productId": 6,
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "employeeId": 1
+    },
+    {
+      "id": 15,
+      "date": "2024-11-08",
+      "customerId": 14,
+      "productId": 1,
+      "quantity": 1,
+      "price": 45.99,
+      "total": 45.99,
+      "employeeId": 2
+    },
+    {
+      "id": 16,
+      "date": "2024-11-08",
+      "customerId": 15,
+      "productId": 14,
+      "quantity": 1,
+      "price": 14.99,
+      "total": 14.99,
+      "employeeId": 1
+    },
+    {
+      "id": 17,
+      "date": "2024-11-09",
+      "customerId": 16,
+      "productId": 7,
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "employeeId": 3
+    },
+    {
+      "id": 18,
+      "date": "2024-11-09",
+      "customerId": 17,
+      "productId": 2,
+      "quantity": 1,
+      "price": 89.99,
+      "total": 89.99,
+      "employeeId": 2
+    },
+    {
+      "id": 19,
+      "date": "2024-11-10",
+      "customerId": 18,
+      "productId": 15,
+      "quantity": 4,
+      "price": 6.99,
+      "total": 27.96,
+      "employeeId": 1
+    },
+    {
+      "id": 20,
+      "date": "2024-11-10",
+      "customerId": 19,
+      "productId": 4,
+      "quantity": 1,
+      "price": 129.99,
+      "total": 129.99,
+      "employeeId": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alex Thompson",
+      "position": "Sales Associate",
+      "hireDate": "2023-06-15",
+      "salary": 32000,
+      "salesCount": 45,
+      "department": "Sales"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Miller",
+      "position": "Sales Associate",
+      "hireDate": "2023-08-20",
+      "salary": 30000,
+      "salesCount": 38,
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Casey Rodriguez",
+      "position": "Sales Associate",
+      "hireDate": "2024-01-10",
+      "salary": 28000,
+      "salesCount": 32,
+      "department": "Sales"
+    },
+    {
+      "id": 4,
+      "name": "Morgan Chen",
+      "position": "Store Manager",
+      "hireDate": "2022-03-01",
+      "salary": 45000,
+      "salesCount": 12,
+      "department": "Management"
+    },
+    {
+      "id": 5,
+      "name": "Riley Johnson",
+      "position": "Assistant Manager",
+      "hireDate": "2023-02-14",
+      "salary": 38000,
+      "salesCount": 25,
+      "department": "Management"
+    },
+    {
+      "id": 6,
+      "name": "Taylor Williams",
+      "position": "Inventory Specialist",
+      "hireDate": "2023-09-05",
+      "salary": 34000,
+      "salesCount": 8,
+      "department": "Operations"
+    },
+    {
+      "id": 7,
+      "name": "Sam Davis",
+      "position": "Sales Associate",
+      "hireDate": "2024-02-28",
+      "salary": 27000,
+      "salesCount": 28,
+      "department": "Sales"
+    },
+    {
+      "id": 8,
+      "name": "Jamie Brown",
+      "position": "Sales Associate",
+      "hireDate": "2023-11-12",
+      "salary": 31000,
+      "salesCount": 42,
+      "department": "Sales"
+    },
+    {
+      "id": 9,
+      "name": "Avery Wilson",
+      "position": "Customer Service",
+      "hireDate": "2024-03-15",
+      "salary": 29000,
+      "salesCount": 15,
+      "department": "Customer Service"
+    },
+    {
+      "id": 10,
+      "name": "Quinn Martinez",
+      "position": "Sales Associate",
+      "hireDate": "2023-07-22",
+      "salary": 29500,
+      "salesCount": 40,
+      "department": "Sales"
+    },
+    {
+      "id": 11,
+      "name": "Blake Anderson",
+      "position": "Inventory Specialist",
+      "hireDate": "2023-12-01",
+      "salary": 33000,
+      "salesCount": 5,
+      "department": "Operations"
+    },
+    {
+      "id": 12,
+      "name": "Cameron Taylor",
+      "position": "Sales Associate",
+      "hireDate": "2024-04-10",
+      "salary": 27500,
+      "salesCount": 22,
+      "department": "Sales"
+    },
+    {
+      "id": 13,
+      "name": "Dakota Lee",
+      "position": "Sales Associate",
+      "hireDate": "2023-10-18",
+      "salary": 30500,
+      "salesCount": 35,
+      "department": "Sales"
+    },
+    {
+      "id": 14,
+      "name": "Emery White",
+      "position": "Customer Service",
+      "hireDate": "2024-01-25",
+      "salary": 28500,
+      "salesCount": 18,
+      "department": "Customer Service"
+    },
+    {
+      "id": 15,
+      "name": "Finley Harris",
+      "position": "Sales Associate",
+      "hireDate": "2023-05-30",
+      "salary": 31500,
+      "salesCount": 48,
+      "department": "Sales"
+    },
+    {
+      "id": 16,
+      "name": "Hayden Clark",
+      "position": "Inventory Specialist",
+      "hireDate": "2023-08-08",
+      "salary": 32500,
+      "salesCount": 10,
+      "department": "Operations"
+    },
+    {
+      "id": 17,
+      "name": "Indigo Lewis",
+      "position": "Sales Associate",
+      "hireDate": "2024-02-05",
+      "salary": 27200,
+      "salesCount": 26,
+      "department": "Sales"
+    },
+    {
+      "id": 18,
+      "name": "Jules Walker",
+      "position": "Sales Associate",
+      "hireDate": "2023-09-20",
+      "salary": 30200,
+      "salesCount": 37,
+      "department": "Sales"
+    },
+    {
+      "id": 19,
+      "name": "Kai Hall",
+      "position": "Assistant Manager",
+      "hireDate": "2023-04-12",
+      "salary": 37000,
+      "salesCount": 20,
+      "department": "Management"
+    },
+    {
+      "id": 20,
+      "name": "Lane Allen",
+      "position": "Sales Associate",
+      "hireDate": "2024-03-22",
+      "salary": 27800,
+      "salesCount": 24,
+      "department": "Sales"
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "productId": 1,
+      "date": "2024-11-01",
+      "quantityIn": 20,
+      "quantityOut": 5,
+      "currentStock": 15,
+      "reorderLevel": 10
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "date": "2024-11-01",
+      "quantityIn": 15,
+      "quantityOut": 7,
+      "currentStock": 8,
+      "reorderLevel": 5
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "date": "2024-11-02",
+      "quantityIn": 30,
+      "quantityOut": 8,
+      "currentStock": 22,
+      "reorderLevel": 15
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "date": "2024-11-02",
+      "quantityIn": 10,
+      "quantityOut": 5,
+      "currentStock": 5,
+      "reorderLevel": 3
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "date": "2024-11-03",
+      "quantityIn": 25,
+      "quantityOut": 7,
+      "currentStock": 18,
+      "reorderLevel": 12
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "date": "2024-11-03",
+      "quantityIn": 50,
+      "quantityOut": 5,
+      "currentStock": 45,
+      "reorderLevel": 20
+    },
+    {
+      "id": 7,
+      "productId": 7,
+      "date": "2024-11-04",
+      "quantityIn": 45,
+      "quantityOut": 7,
+      "currentStock": 38,
+      "reorderLevel": 18
+    },
+    {
+      "id": 8,
+      "productId": 8,
+      "date": "2024-11-04",
+      "quantityIn": 50,
+      "quantityOut": 8,
+      "currentStock": 42,
+      "reorderLevel": 25
+    },
+    {
+      "id": 9,
+      "productId": 9,
+      "date": "2024-11-05",
+      "quantityIn": 40,
+      "quantityOut": 5,
+      "currentStock": 35,
+      "reorderLevel": 15
+    },
+    {
+      "id": 10,
+      "productId": 10,
+      "date": "2024-11-05",
+      "quantityIn": 45,
+      "quantityOut": 5,
+      "currentStock": 40,
+      "reorderLevel": 20
+    },
+    {
+      "id": 11,
+      "productId": 11,
+      "date": "2024-11-06",
+      "quantityIn": 70,
+      "quantityOut": 10,
+      "currentStock": 60,
+      "reorderLevel": 30
+    },
+    {
+      "id": 12,
+      "productId": 12,
+      "date": "2024-11-06",
+      "quantityIn": 30,
+      "quantityOut": 5,
+      "currentStock": 25,
+      "reorderLevel": 10
+    },
+    {
+      "id": 13,
+      "productId": 13,
+      "date": "2024-11-07",
+      "quantityIn": 35,
+      "quantityOut": 5,
+      "currentStock": 30,
+      "reorderLevel": 15
+    },
+    {
+      "id": 14,
+      "productId": 14,
+      "date": "2024-11-07",
+      "quantityIn": 25,
+      "quantityOut": 5,
+      "currentStock": 20,
+      "reorderLevel": 8
+    },
+    {
+      "id": 15,
+      "productId": 15,
+      "date": "2024-11-08",
+      "quantityIn": 55,
+      "quantityOut": 5,
+      "currentStock": 50,
+      "reorderLevel": 25
+    },
+    {
+      "id": 16,
+      "productId": 16,
+      "date": "2024-11-08",
+      "quantityIn": 35,
+      "quantityOut": 7,
+      "currentStock": 28,
+      "reorderLevel": 12
+    },
+    {
+      "id": 17,
+      "productId": 17,
+      "date": "2024-11-09",
+      "quantityIn": 40,
+      "quantityOut": 7,
+      "currentStock": 33,
+      "reorderLevel": 15
+    },
+    {
+      "id": 18,
+      "productId": 18,
+      "date": "2024-11-09",
+      "quantityIn": 30,
+      "quantityOut": 5,
+      "currentStock": 25,
+      "reorderLevel": 10
+    },
+    {
+      "id": 19,
+      "productId": 19,
+      "date": "2024-11-10",
+      "quantityIn": 35,
+      "quantityOut": 5,
+      "currentStock": 30,
+      "reorderLevel": 15
+    },
+    {
+      "id": 20,
+      "productId": 20,
+      "date": "2024-11-10",
+      "quantityIn": 40,
+      "quantityOut": 4,
+      "currentStock": 36,
+      "reorderLevel": 18
+    }
+  ]
+}
