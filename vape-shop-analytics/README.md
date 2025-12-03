@@ -8,7 +8,7 @@ This system integrates database management with advanced analytics capabilities 
 
 - **Database Structure**: 5 main data tables (Products, Customers, Sales, Employees, Inventory)
 - **Data Requirements**: Each table contains 20+ records
-- **Analytics Types**: Descriptive, Diagnostic, Predictive, and Prescriptive analytics
+- **Analytics Types**: Descriptive, Predictive, and Prescriptive analytics
 - **Technology Stack**: Next.js, React, TypeScript, Tailwind CSS, Recharts
 
 ## Features
@@ -24,21 +24,14 @@ This system integrates database management with advanced analytics capabilities 
 - Historical data analysis
 - Sales trends and patterns
 
-### 3. Diagnostic Analytics
-- Employee performance analysis
-- Product profitability analysis
-- Customer value analysis
-- Correlation analysis (price vs quantity, stock vs sales)
-- Category performance comparison
-
-### 4. Predictive Analytics
+### 3. Predictive Analytics
 - Sales forecasting using linear regression
 - Product demand prediction
 - Customer spending prediction
 - Revenue forecasting
 - Trend analysis
 
-### 5. Prescriptive Analytics
+### 4. Prescriptive Analytics
 - Inventory management recommendations
 - Pricing strategy recommendations
 - Customer targeting recommendations

@@ -28,7 +28,13 @@ export async function readDatabase(): Promise<Database> {
 }
 
 export async function writeDatabase(database: Database): Promise<void> {
-  await fs.writeFile(DB_PATH, JSON.stringify(database, null, 2), 'utf8')
+  // Compact format: each record on one line
+  const formatted = JSON.stringify(database, null, 2)
+    .replace(/\{\n\s+/g, '{ ')
+    .replace(/,\n\s+/g, ', ')
+    .replace(/\n\s+\}/g, ' }')
+  
+  await fs.writeFile(DB_PATH, formatted, 'utf8')
 }
 
 function sortById(records: CollectionRecord[]): CollectionRecord[] {
